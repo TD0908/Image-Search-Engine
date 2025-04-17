@@ -8,7 +8,7 @@
 
 /* Set body background and text color */
 body{
-    background-color: #330e79;
+    background-color: #000000;
     color: #ffffff;
     line-height: 1.6;
 }
@@ -160,7 +160,7 @@ footer {
     text-align: center;
     padding: 20px 0;
     margin-top: 50px;
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgb(255, 255, 255);
 }
 
 footer p {
